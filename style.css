@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+#header {
+  margin-top: 50px;
+  width: 160px;
+  height: 160px;
+  background-size:contain;
+  background-repeat: no-repeat;
+      /**  LOGO INN HER!   **/
+      /**  LOGO INN HER!   **/
+  background-image: url(yx.png);
+      /**  LOGO INN HER!   **/
+      /**  LOGO INN HER!   **/
+}
+
+body {
+    background:#2d3e50;
+    color: white;
+    font-family: roboto;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;    
+}
+
+
+.location {
+    text-align: center;
+    text-shadow: 1px 1px black;
+}
+
+a:link {
+    color:white;
+    font-size: 15px;
+}
+
+a:visited {
+    color:white;
+}
+
+
+
+
+a:link {
+    color:white;
+    font-size: 15px;
+}
+
+a:visited {
+    color:white;
+}
